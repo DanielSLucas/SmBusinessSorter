@@ -1,0 +1,4 @@
+findKey	amount	description	source	categories
+mercado	0	Compra de mercado	CONTA CORRENTE	ALIMENTAÇÃO
+transferência recebida	100	Reembolso	CONTA CORRENTE	ESTORNOS
+

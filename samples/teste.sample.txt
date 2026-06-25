@@ -1,0 +1,4 @@
+125,90 (-) 15/01/2026 Mercado Exemplo
+Compra de mercado
+100,00 (+) 16/01/2026 Empresa Exemplo
+Transferência recebida
